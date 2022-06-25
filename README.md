@@ -18,6 +18,10 @@ ARI is designed for all audiences, but is particularly effective for high school
 
 This game was developed during the fall of 2021 over the span of fourteen weeks. Under the supervision of Marist professors Brian Gormanly (brian.gormanly@marist.edu) and Casimer DeCusatis (casimer.decusatis@marist.edu), a team of ten senior students elected to make this cybersecurity training experience a reality.  
 
+Since then, ARI, and a paper regarding its development process, have been presented at the [Mid-Hudson Regional Business Plan Competition](https://www.marist.edu/computer-science-math/mid-hudson-regional-business-plan-competition) and later the [14th Annual ECC Conference](https://ecc.marist.edu/web/conference2022), where it won the cybersecurity award for best in its category. 
+
+Additionally, ARI will be used in a classroom setting with high school students for the first time in the summer of 2022. 
+
 Can [download the executable](https://sendhelp-studios.itch.io/ari) and learn more at [aricyberthink.com](http://aricyberthink.com/). For those interested in playtesting the game, please consider filling out [this survey](https://forms.gle/uFqK139JihfDxVa16) with your feedback.
 
 <p align="center">
